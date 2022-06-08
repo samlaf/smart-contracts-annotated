@@ -3,4 +3,4 @@
 - https://jeiwan.net/posts/programming-defi-uniswapv2-1/
 
 ## (flash)swaps and flashloans visualizations
-![](./uniswapV2_swap_visualization.pdf)
+![](./UniswapV2_swap_visualization.jpg)
